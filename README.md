@@ -1,5 +1,7 @@
 # AgileProject: MovieDatabaseWebsite #
-Requirement: Build a fully functioning website on a linux server to rate and search a large database of movies.
+## Requirement: ##
+
+Build a fully functioning website on a linux server to rate and search a large database of movies.
 
 ### ***Includes:*** ###
 
