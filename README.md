@@ -7,9 +7,9 @@ Independent multi-parameter search function
 
 Login with normal and admin-level user types
 
-Pages for most-searched and highest-rated titles
+Pages with most-searched and highest-rated titles shown in graphs
 
-User opt-in for newsletters using real email.
+User opt-in for newsletters using real email
 
 ## Screenshots ##
 
