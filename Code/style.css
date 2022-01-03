@@ -1,0 +1,94 @@
+body
+{
+    font-family: sans-serif;
+}
+/* this general text layout settings */
+header h1
+{
+    font-size: 3vw;
+}
+/* this the specific settings for the header text with is set to scale to the screen width */
+nav a
+{
+    font-size: 2vw;
+    font-family: 'Times New Roman', Times, serif;
+}
+/* this is the text data for the navigation buttons with them set to scale to screen width */
+
+main h1
+{
+    font-size: 2vw;
+}
+/* this is the settings for header 1 text with it scaling to screen size this is currently unused but is there for later edits */
+h2
+{
+    font-size: 2vw;
+}
+/* this is the settings for header 2 text with it scaling to screen size  */
+main p
+{
+    font-size: 1vw;
+}
+
+main ul
+{
+     font-size: 3vw;
+}
+table {
+  width: 100%;
+  table-layout: fixed;
+}
+/* this forces tables to fit to screen width */
+main th
+{
+     font-size: 1.6vw;
+}
+/* this controls the font size for table headings and scales it to screen width */
+main td
+{
+     font-size: 1.6vw;
+}
+/* this controls the font size for table data and scales it to screen width */
+
+.form-signin .form-control:focus {
+     z-index: 2;
+}
+         
+.form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+	border-bottom-left-radius: 0;
+    border-color:#017572;
+}
+         
+.form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-color:#017572;
+}
+         .form-signin {
+            max-width: 330px;
+            padding: 15px;
+            margin: 0 auto;
+            color: #017572;
+         }
+         
+         .form-signin .form-signin-heading,
+         .form-signin .checkbox {
+            margin-bottom: 10px;
+         }
+         
+.form-signin .checkbox {
+	font-weight: normal;
+}
+         
+.form-signin .form-control {
+	position: relative;
+    height: auto;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: 16px;
+}

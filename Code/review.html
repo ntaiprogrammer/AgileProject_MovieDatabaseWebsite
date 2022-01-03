@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Database search</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<!-- this is all the required links and imports being set up -->
+</head>
+
+<body>
+    <div class="row">
+        <header class="col-lg-12 bg-info">
+            <class="col-lg-2">
+                <h1 class="col-lg-10 text-center">Database Search</h1>
+        </header>
+<!--    header information being set up      -->
+    </div>
+    <div class="row">
+        <nav class="col-lg-2">
+            <h2 class="text">Navigation bar</h2>
+            <ul class="nav nav-pills nav-stacked">
+                <li><a href="index.html">Search</a></li>
+                <li><a href="MSearched.php">10 Most Searched</a></li>
+                <li><a href="Hrated.php">Highest rated movies</a></li>
+            	<li><a href="Signup.html">Subscribe to our newsletter!</a></li>
+            	<li><a href="Admin.php">Admin page</a></li>
+                <li><a href="signin.php">Signin</a></li>
+            </ul>
+        </nav>
+<!--   navigation bar being setup and made   -->
+        <main class="col-lg-10">
+            <form action="score.php" method="POST">
+                Name: <input type="text" name="name"><br> Genre: <input type="text" name="genre"><br> rating: <input type="text" name="rating"><br> Year: <input type="text" name="year"><br> score(/10): <input type="number" name="score" required><br>
+                <input type="submit">
+            </form>
+        </main>
+<!--   this is the code for the search bars and how they send to the specific page for using them   -->
+    </div>
+    <div>
+    </div>
+</body>
+
+</html>
