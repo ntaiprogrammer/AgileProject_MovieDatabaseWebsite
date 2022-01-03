@@ -11,9 +11,6 @@ Pages with most-searched and highest-rated titles shown in graphs
 
 User opt-in for newsletters using real email
 
-
-
-
 ## Screenshots ##
 
 ![screenshot_searchresult](https://user-images.githubusercontent.com/97016612/147925390-526a866c-b13d-4b29-9f2a-c07c736b8321.png)
