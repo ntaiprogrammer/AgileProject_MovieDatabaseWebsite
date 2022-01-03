@@ -4,13 +4,13 @@
 
 ### ***Includes:*** ###
 
-Independent multi-parameter search function
+-Independent multi-parameter search function
 
-Login with normal and admin-level user types
+-Login with normal and admin-level user types
 
-Pages with most-searched and highest-rated titles shown in graphs
+-Pages with most-searched and highest-rated titles shown in graphs
 
-User opt-in for newsletters using real email
+-User opt-in for newsletters using real email
 
 ## Screenshots ##
 
