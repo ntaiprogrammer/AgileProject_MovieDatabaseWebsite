@@ -1,6 +1,6 @@
-# AgileProject: MovieDatabaseWebsite #
+# AgileProject: Movie Database Website #
 
-### A fully functioning website on a linux server to search and rate a large database of movies. ###
+### A collaborative project to build a fully functioning website on a linux server to search and rate a large database of movies. ###
 
 ### ***Includes:*** ###
 
