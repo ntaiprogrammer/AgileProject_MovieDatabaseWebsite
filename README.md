@@ -1,6 +1,6 @@
 # Agile Project: Movie Database Website #
 
-### A 4-week collaborative RAD project to build a functioning website to search and rate a database of movies. ###
+### A four-week collaborative RAD project to build a functioning website to search and rate a database of movies. ###
 
 ### ***Includes:*** ###
 
