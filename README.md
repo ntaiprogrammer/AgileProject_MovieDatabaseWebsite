@@ -1,7 +1,7 @@
 # AgileProject_MovieDatabaseWebsite
 Website to rate and search a large database of movies. 
 
-*_Includes:_*
+***Includes:***
 
 Independent multi-parameter search function
 
