@@ -10,7 +10,7 @@
 
 -Pages with most-searched and highest-rated titles shown in graphs
 
--User opt-in for newsletters using real email
+-User opt-in and opt-out for newsletters using real email, controlled by admin account
 
 ## Screenshots ##
 
