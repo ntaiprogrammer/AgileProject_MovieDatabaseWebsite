@@ -1,4 +1,4 @@
-# AgileProject_MovieDatabaseWebsite
+# AgileProject: MovieDatabaseWebsite
 Website to rate and search a large database of movies. 
 
 ##### ***Includes:***
